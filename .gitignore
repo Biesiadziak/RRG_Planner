@@ -1,0 +1,13 @@
+.cache/
+.ros/
+.sdformat/
+.rviz2/
+.bash_history
+.gz/
+install/
+log/
+build/
+.vscode-server/
+.dotnet/
+.gnupg/
+.local/
