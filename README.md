@@ -1,8 +1,7 @@
 # RRG Planner
 
-Implementation of the RRG planner with `nav2` in ROS 2 Jazzy, integrated with a TurtleBot simulation.
-
----
+Implementation of the RRG planner with `nav2` in ROS 2 Jazzy, integrated with a TurtleBot simulation.  
+🎥 [Watch demo video on YouTube](https://www.youtube.com/watch?v=qR6KtVLyXd8)
 
 ## 🚀 Getting Started
 
